@@ -1,4 +1,4 @@
-![](https://github.com/ShravanMeena/email-validation-in-javascript/blob/main/emailValidation.png?raw=true)
+![](https://github.com/ShravanMeena/email-validation-in-javascript/blob/main/emailValidation1.png?raw=true)
 
 ## Project
 
